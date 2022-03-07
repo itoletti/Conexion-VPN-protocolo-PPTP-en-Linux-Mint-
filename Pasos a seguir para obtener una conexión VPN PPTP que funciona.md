@@ -9,15 +9,15 @@ Para realizar la conexion a la VPM segui las instrucciones que indican algunos s
   - en la lista desplegabel de la nueva vebtana emergente seleccionar la opcion VPN Protocolo de túnel punto a punto (PPTP)
   - seleccionar el boto Crear...
   - En la ventana emergente de creación de la VPN agregar informacion a los campos 
-      . Nombre de la conexion: dandole el nombre que se la identificara luego en la lista de conexiones VPN en el Centro de Redes
-      . Pasarela: indicar la url o nombre del servidor de VPN (vpn.nombre.com.ar)
-      . Usuario: el usario para la conexion 
-      . Password: la passwd del usuario de la conexion
-      . Dominio de red: no es necesario agragar info alli
+      - Nombre de la conexion: dandole el nombre que se la identificara luego en la lista de conexiones VPN en el Centro de Redes
+      - Pasarela: indicar la url o nombre del servidor de VPN (vpn.nombre.com.ar)
+      - Usuario: el usario para la conexion 
+      - Password: la passwd del usuario de la conexion
+      - Dominio de red: no es necesario agragar info alli
   - Seleccionar el boton Avanzado... de alli solo hacer los siguientes cambios
-      . Marcar Usar cifrado punto a punto (MPPE)
-      . en la lista desplegable seleccionar 128-bit (mas seguro)
-      . en el cuadro Permitir los siguientes métodos de autenticacion: aparecen solo dos opciones habilitadas para modificar MSCHAP y MSCHAPv2, solo dejar marcado MSCHAPv2
+      - Marcar Usar cifrado punto a punto (MPPE)
+      - en la lista desplegable seleccionar 128-bit (mas seguro)
+      - en el cuadro Permitir los siguientes métodos de autenticacion: aparecen solo dos opciones habilitadas para modificar MSCHAP y MSCHAPv2, solo dejar marcado MSCHAPv2
       . dejar las demas opciones como estan por defecto y dar al boton Aceptar
   - darle al boton Guardar de la ventana Editando... donde se esta creando la conexion Nueva
 
